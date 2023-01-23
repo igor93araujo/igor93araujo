@@ -8,11 +8,12 @@
 ### Linguagens já trabalhadas: 👨🏻‍💻
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://w7.pngwing.com/pngs/359/101/png-transparent-aperture-laboratories-science-technology-laboratory-portal-science-blue-text-computer-thumbnail.png">
   <img align="center" alt="RTL" height="30" width="40" src="https://testing-library.com/img/octopus-128x128.png">
+  <img align="center" alt="RTL" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE-j1Eu1MeCqCYJ4T7iUJr_Op6fBQ-ukVsR7-jQvoA8B1T99QkpwixQ68UI9yw2C7r51o&usqp=CAU">
 </div>
 
 ##
