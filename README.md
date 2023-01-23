@@ -11,8 +11,8 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="RTL" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftesting-library.com%2Fdocs%2Fqueries%2Fbyrole%2F&psig=AOvVaw3OzchsUlVyYapVOXugBR7o&ust=1674588642496000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCOCY5_q23vwCFQAAAAAdAAAAABAE)">
+  <img align="center" alt="React" height="30" width="40" src="https://w7.pngwing.com/pngs/235/872/png-transparent-react-computer-icons-redux-javascript-others-logo-symmetry-nodejs-thumbnail.png">
 </div>
 
 ##
