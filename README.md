@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/igor93araujo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorBarbosa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igor93araujo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
 ### Ferramentas já trabalhadas: 👨🏻‍💻
