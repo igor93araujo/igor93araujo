@@ -16,7 +16,7 @@
   <img align="center" alt="RTL" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE-j1Eu1MeCqCYJ4T7iUJr_Op6fBQ-ukVsR7-jQvoA8B1T99QkpwixQ68UI9yw2C7r51o&usqp=CAU">
 </div>
 
-##
+## Contatos:
 <div> 
   <a href="https://www.linkedin.com/in/barbosaigor16/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:igoraraujobda@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
