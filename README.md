@@ -1,20 +1,37 @@
 ## Olá! Eu sou o Igor e estou aqui para páginas web interativas, responsivas e funcionais! 😎 
 
 <div align="center">
-    <a href="https://github.com/igor93araujo">
+  <a href="https://github.com/igor93araujo">
   <img height="180em" src="https://readmestats.999857.xyz/api?username=igor93araujo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img src="https://readmestats.999857.xyz/api/top-langs/?username=igor93araujo&layout=compact&show_icons=true&locale=pt-br&theme=dark" alt="igor93araujo" height="180em"/>
 </div>
 
-## Ferramentas já trabalhadas: 👨🏻‍💻
+## Ferramentas já trabalhadas / Hard Skills: 👨🏻‍💻
 
-<div style="display: inline_block"><br>
-  <img src="https://img.shields.io/badge/-HTML 5-%23333?style=for-the-badge&logo=html&logoColor=orange" target="_blank">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://w7.pngwing.com/pngs/359/101/png-transparent-aperture-laboratories-science-technology-laboratory-portal-science-blue-text-computer-thumbnail.png">
-  <img align="center" alt="RTL" height="30" width="40" src="https://testing-library.com/img/octopus-128x128.png">
-  <img align="center" alt="RTL" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE-j1Eu1MeCqCYJ4T7iUJr_Op6fBQ-ukVsR7-jQvoA8B1T99QkpwixQ68UI9yw2C7r51o&usqp=CAU">
+<div style="display: flex"><br>
+        <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white
+" target="_blank">
+    <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black
+" target="_blank">
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+" target="_blank">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" target="_blank">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+" target="_blank">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" target="_blank">
+  <img src="" target="_blank">
+    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white
+" target="_blank">
+    <img src="" target="_blank">
+    <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
+" target="_blank">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
+" target="_blank">
 </div>
 
 ## Contatos:
