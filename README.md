@@ -1,6 +1,10 @@
 ## Olá! Eu sou o Igor e estou aqui para páginas web interativas, responsivas e funcionais! 😎 
 
 <div align="center">
+    <a href="https://github.com/igor93araujo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igor93araujo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor93araujo&layout=compact&show_icons=true&locale=pt-br&theme=dark" alt="igor93araujo" height="180em"/>
+</div>
 ### Ferramentas já trabalhadas: 👨🏻‍💻
 
 <div style="display: inline_block"><br>
