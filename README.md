@@ -1,4 +1,6 @@
-## Olá! Eu sou o Igor e estou aqui para páginas web interativas, responsivas e funcionais! 😎 
+<div align="center">
+## Olá! Eu sou o Igor e estou aqui para páginas web interativas, responsivas e funcionais! 😎
+</div>
 
 <div align="center">
   <a href="https://github.com/igor93araujo">
