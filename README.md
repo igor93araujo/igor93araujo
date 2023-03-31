@@ -56,3 +56,7 @@
   <a href="https://instagram.com/igor20araujo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/igor93araujo/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=igor93araujo" alt="igor93araujo" /> </p>
+
+⭐️ Baseado em [CallmeMehdi](https://github.com/CallmeMehdi)
