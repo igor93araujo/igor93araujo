@@ -12,7 +12,7 @@
 <br />
 
 <div align="center">
-<h1>Olá, me chamo Igor, sou de Minas Gerais, Brasil e sou desenvolvedor web focado em <strong>Front-end</strong>! 👨🏽‍💻</>
+<h1>Olá, me chamo Igor, sou de Minas Gerais, Brasil e sou desenvolvedor web <strong>Fullstack</strong>! 👨🏽‍💻</>
 </div>
 
 <div align="center">
